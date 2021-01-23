@@ -37,6 +37,11 @@ $ npm run start:dev
 # production mode
 $ npm run start:prod
 ```
+
+Watch the demo:
+
+[![Watch the video](https://i.ibb.co/6bS61tS/Screen-Shot-2021-01-23-at-7-34-18-pm.png)](https://s3.amazonaws.com/img0.recordit.co/1jsrmgMgmJ.mp4?AWSAccessKeyId=AKIAUQ5RURZ7ND2T2B6I&Expires=1611433586&Signature=6Ek0ZMU9n%2BjuVU3fhQMu0%2FNinn4%3D)
+
 ## Tests
 
   To run the test suite, first, install the dependencies, then run `npm run test`:
